@@ -1,9 +1,11 @@
 # World_Bank_Data_Analysis
-to clean and analyze data to find trends in global population, fertility, and life expectancy from 1960 to 2016. This idea was inspired by hans rosling . To analyze the data, I used a scatter bubble chart, which clearly shows how's the population increased and the fertility rate decreased from 1960 to 2016.
+to clean and analyze data to find trends in global population, fertility, and life expectancy from 1960 to 2016. This idea was inspired by hans rosling . To analyze the data, I used a scatter bubble chart, which clearly shows how the population increased and the fertility rate decreased from 1960 to 2016.
 
-![newplot (2)](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/3098a0ae-0ef9-4f61-a92a-4b63dcbe7f41)
-![newplot (3)](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/f533dfcd-abc9-40f3-995d-006b110fad55)
-![Screenshot (223)](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/be9a495e-0aba-46f9-999c-64d0296b8d87)
-![newplot (5)](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/2745dc35-af0a-4d4c-901b-93f7dde084f1)
-![newplot (6)](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/b28a87f3-8832-4d8b-ba89-7858f7c1b3b8)
-![newplot (4)](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/bab89228-a3cd-4d92-9d8f-45df5923a6dd)
+![world bank data analysis_pages-to-jpg-0001](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/a0fd7967-1c19-47d2-926c-81b8089870a7)
+![world bank data analysis_pages-to-jpg-0002](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/2c461c5e-88cf-4f6c-b0e1-93b5b18fe16c)
+![world bank data analysis_pages-to-jpg-0003](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/0d7e8e72-f874-4607-a137-c17b0460e493)
+![world bank data analysis_pages-to-jpg-0004](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/85abf390-cc98-4877-a16b-e1a9ad1b8de7)
+![world bank data analysis_pages-to-jpg-0005](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/982279d1-0d0b-4e31-bdb3-b0473097291f)
+![world bank data analysis_pages-to-jpg-0006](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/ab4095a3-4fb9-4f78-81e3-6f2eeb6a117d)
+![world bank data analysis_pages-to-jpg-0007](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/ab42023d-62b8-4247-9c67-ed0eb0cdf1e3)
+![world bank data analysis_pages-to-jpg-0008](https://github.com/rajesh9943/World_Bank_Data_Analysis/assets/98160008/5a9a32cf-fefb-4026-a9a5-41c4b3ea34c1)
